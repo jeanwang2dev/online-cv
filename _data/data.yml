@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Jean(Yijing) Wang
+    name: Jean (Yijing) Wang
     tagline: WordPress Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -15,11 +15,9 @@ sidebar:
     email: jean@nehemiah9design.com
     phone: 734 845 2275
     timezone: America/NewYork Timezone
-    citizenship:
     website: nehemiah9design.com #do not add http://
     linkedin: jeanwang2dev
     github: jeanwang2dev
-    twitter: '@jeanwang2dev'
 
     languages:
       - idiom: English
@@ -44,11 +42,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am an experienced software developer re-entered the workforce after relocating from China. I have been building WordPress sites for clients since 2016, from modify free/paid themes to full customized themes with multi-languages, currently focusing on self-training of headless WordPress with Gatsby.js.
+      I have been building WordPress sites for clients since 2016, from modify free/paid themes to full customized themes with multi-languages, currently focusing on self-training of headless WordPress with Gatsby.js.
       
       I have a Bachelor’s degree in Computer Science, a strong foundation of object oriented programming and five years of professional experience in China. I was maily doing auto script writing for batch task processing before I switch to web development. 
 
-      I am a fast learner and willing to learn new skills. I setup this githubpage resume with Jekyll in a couple hours base on a github repo and updated it. I did not know what Jekyll is before. 
+      I am a fast learner and I love learning new skills. I setup this githubpage resume with Jekyll in a couple hours base on a github repo without knowing Jekyll before.
       
 education:
     - degree: Web Developement Courses
