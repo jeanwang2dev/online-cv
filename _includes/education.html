@@ -37,7 +37,7 @@
           <div class="time">{{ graduation.time }}</div>
         </div><!--//upper-row-->
 
-        <div class="university">{{ graduation.university }}</div>
+        <a href="{{ graduation.link }}" target="_blank" class="link_without_underline"><div class="university">{{ graduation.university }}</div></a>
       </div><!--//meta-->
 
       {% if graduation.details %}
