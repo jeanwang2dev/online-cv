@@ -78,13 +78,24 @@ experiences:
       link: "https://nehemiah9design.com"
       details: |
         I have been building and maintaining WordPress sites with my partner who is a Graphic Designer, he handles the sales, meetings, the design, UX/UI aspects of the site. We also work with content writers when neccessary. We also build static sites, updated Shopify sites. We have our own hosting, I also help clients who does not host with us to managed their hosting like update DNS records, setting up email, etc. Here is some sites that we built:
-          - [https://junemanningthomas.com](https://junemanningthomas.com)
-          - [https://blhconstructioninc.com](https://blhconstructioninc.com)
-          - [https://distillery.com](https://distillery.com)
-          - [https://totalvascularcc.com](https://totalvascularcc.com)
-          - [https://goinghometomysoul.com](https://goinghometomysoul.com)
-          - [https://anewpathdivorce.com](https://anewpathdivorce.com)
-          - [https://alembicantiques.com](https://alembicantiques.com)
+      items:
+          - text: https://junemanningthomas.com
+            link: "https://junemanningthomas.com"
+          - text: https://blhconstructioninc.com
+            link: "https://blhconstructioninc.com"
+          - text: https://distillery.com
+            link: "https://distillery.com"            
+          - text: https://totalvascularcc.com
+            link: "https://totalvascularcc.com" 
+          - text: https://goinghometomysoul.com
+            link: "https://goinghometomysoul.com"
+          - text: https://anewpathdivorce.com
+            link: "https://anewpathdivorce.com"
+          - text: https://alembicantiques.com
+            link: "https://alembicantiques.com"
+                        
+         
+
     - role: Desktop Publishing Engineer
       time: 2006 - 2011
       company: SAS, Beijing China

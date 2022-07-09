@@ -29,6 +29,12 @@
     </div><!--//details-->
     {% endif %}
 
+    {% for item in experience.items %}
+    <div class="links">
+      <a href="{{ item.link }}" target="_blank"><li>{{ item.text }}</li></a>
+    </div>
+    {% endfor %}
+
   </div><!--//item-->
   {% endfor %}
 
